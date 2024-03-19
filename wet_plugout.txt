@@ -1,0 +1,38 @@
+# wet_plugout v0.3
+# One button plugin state save and restore.
+# Robert Wetzlmayr
+# https://wetzlmayr.at/awasteofwords/wet_plugout-textpattern-plugin
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAACu1XbW/bNhD+rl/BaQYoFY5fkjRJlbrZsK1Fga0thgz70BYCJZ1sthKpkZRf
+1uW/70jJtvzWDR0wYMAEtJHIe3nu7rkjzaLxOPqko+vIn4PSXAr/VkcXkT8aXNi3q8hntZlJ
+ZT/G+PWzTEAZ8iuY34uSrZr10VoqrhV3ao8jf2ZMpaPhcLEWHTAzZAumDch8IVWm7VZcFfVU
+1ubMwNJUzBhQ4syucYcE0fkZ6FTxyrTgLnHptQCS1MZIQRpZog0zQDSbA2EiIwq0kQoGTiHy
+zaoC/5ZHY/xEaHnBptp+j5ptwUpYe+tgapVnUFTu9RzzMrsYkOccPaRS5AVPDRdTcr/F3uLR
+ZMHNjADT4HmPOjYfOYy6C1ITMwNCGdqaA20jkTlhRbGxxowTStHjR7fXhj/wvNnlgNSaTSHy
+vK/JS4H6RdEnIFhSgP37Qa7IGRHSQebTWjGbSvT+W80VZAPyPddWtsV01mg69w2mDQrUsigw
+WhCWK8SwhBQsgaKAjDx604bYgvqRpyDSxiy6SAvGS1Cedz/j2pk8w7rhq4LC5ikjtchAOQ/+
+C1GTFyBAsYK8qRMMe23OjyyxLK8Wi8FU1AOppsPC7mnQw2lVDMzSrOueyswV9vzJOXLX4zkJ
+vjHLigssVc4Q22SCic9KLmhIPnkEH5ZlcaX4XAe0UzbaJ3TcP6fhrRNSMOXIYxVjAgK6yYe2
+YntabVIONFPMb8LSjwduup+o9OB5eS1SV7LOVtCDOQjTJz20VoVeA35ayAQz1qsU5LpxuFEu
+V/H0fomKttNCt9co2adnt8iEMKXYKtgs24dmDT0omTwjtOUK7e/KNJxpRH4QxySEjBs2xS2b
+GuFXco9kg31FlmC4sZHxDo77GWjoNBuSNQHSimTRSSNdoMdtNBKHJnJeQAxKSdVof0sqJVGy
+JDJNa2wkspihCFko7oaCkcSqkH07JRPYrLtZ+MmtraHQjUJLmoY4psbx4gr11tXwfbOJBNmp
+c+7YkVtmHFRZYYlzWYFwAnRBOw5sc3zVU+HaU84KDdvtHpq12lVtdNBTzvx2N08LqQHXjyBG
+xRNIucWxD9LhaJK9xFbRVuQkqL2A1BcENAUX0BcG08vRRtNvb6mBssq4ou/JgNAhxf/j+Pkv
+r767f/n6VRzbRTuc6G2riTE6PlkUDTa3USEVjKyCzejoYxxo2ayCptnJHXGdTK1bUHYq6tge
+KxlOsYhQGoatKZsCp+MG3bqBwk62h0OC5EUbpljtdeLdNlXrHpng6ZVDnMqiLkVA7blpRxaO
+1JbP+OXbA6zWEzqmbvRbIfIUSe4f5sOnBC8COPSTlZPzOxl3nuoqw9Mw2PVAGw+I5h0dvaN2
+xTnB4yTAT7T7QSK1fLvh9zfoQ1uAdzTscqQTmdOhf9COwh6Xtp21FgibKrZFNKpu+fVAAOu5
+m/128uwlH0s457LWmH1XwZ37zNEKfNO2zR64liBbZFs3ewZgWRV4Lp6M9e8nf/zPkm+fWhRc
+fNyN52GnwU5FbqP+TNBt4resP1r0f4/OB0xDRwfpb3hzLIqWPX9l73htw52RBelMuhf6NONz
+ZNqqgIlfMoWyEd7j5e2CZ2YWXYyg9J/Rzij5TLqt0c0V48hhHx40xmb8nTbTOXItf3r5iSw5
+rVyqcvfmIlBnBllwdATebd0c3DDsFD3cXTdwn1wgmgNPU8XyoEP3AwF4KfDwDLqcOSamG7F2
+1J/wkzdCVNdJyd21Ef9tbnhO1bZqiZdMUIlc4pFwytQMD5FgE+3e7cRauXM3zUnbEWG4fzt5
+2LAKGTVESlnOPHj23n3T/HqKFVv8/wvqv/cLCqtVZo/d23nkX4+Sm6vR6AourrLrm+x8/Bjy
+J0+uxuPry8ubm6tL//bhTyR7ZKNPEAAA

@@ -1,0 +1,12 @@
+h3. Find conflicting Textpattern plugins with ease
+
+*wet_plugout* saves and restores the 'active' state of all plugins at the click of a button.
+
+h4. usage:
+
+# Install, enable, enjoy - no configuration required. Disable and re-enable all active plugins on the extension tab labelled *Plugout*.
+
+h4. Licence and Disclaimer
+
+This plug-in is released under the "Gnu General Public Licence":http://www.gnu.org/licenses/gpl.txt.
+
