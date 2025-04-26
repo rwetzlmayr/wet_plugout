@@ -1,15 +1,5 @@
-### Find conflicting Textpattern plugins with ease
+# 301 Moved Permanently
 
-**wet_plugout** saves and restores the 'active' state of all plugins at
-the click of a button.
+The repository has been moved to https://codeberg.org/rwetzlmayr/wet_plugout.
 
-#### usage:
-
-1.  Install, enable, enjoy - no configuration required. Disable and
-    re-enable all active plugins on the extension tab labelled
-    **Plugout**.
-
-#### Licence and Disclaimer
-
-This plug-in is released under the [Gnu General Public
-Licence](http://www.gnu.org/licenses/gpl.txt).
+This page is left as a placeholder to guide users to the new location.
